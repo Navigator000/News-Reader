@@ -8,5 +8,6 @@ also you can change the website to whatever i chose NPR because it actually work
 
 the agent is probably useless but it took me 4 attempts at getting bbci to allow my script in before trying that and i think it's fine as it is even if the url is more open source
 
-my source of inspiration was this: ![insta](https://www.instagram.com/reel/DcB4vPgyt0g/?stkn=MXQwcm5kNnF6bWt2NQ==)
+my source of inspiration was this: https://www.instagram.com/reel/DcB4vPgyt0g/?stkn=MXQwcm5kNnF6bWt2NQ==
+
 ![help](NewsReader/Screenshot_20260912_201800.png)
